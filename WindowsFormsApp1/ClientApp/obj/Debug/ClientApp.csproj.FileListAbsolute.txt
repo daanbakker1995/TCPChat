@@ -1,0 +1,9 @@
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ClientApp\obj\Debug\ClientApp.ClientForm.resources

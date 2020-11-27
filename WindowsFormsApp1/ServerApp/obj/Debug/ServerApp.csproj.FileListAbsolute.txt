@@ -1,0 +1,9 @@
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\obj\Debug\WindowsFormsApp1.ServerForm.resources
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Daan\RiderProjects\WindowsFormsApp1\ServerApp\obj\Debug\ServerApp.pdb
